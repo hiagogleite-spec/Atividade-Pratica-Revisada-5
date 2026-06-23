@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(135deg,#0ea5e9,#2563eb);
+    min-height:100vh;
+}
+
+body{
+    background-image: url("/img/photo-1772202289452-e9e87552527a.avif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.login-box{
+    max-width:450px;
+    margin:80px auto;
+    text-align:center;
+}
+
+h1{
+    color:#2563eb;
+}
+
+a{
+    text-decoration:none;
+}
+img {
+            max-width: 100px;
+}
